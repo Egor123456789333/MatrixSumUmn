@@ -1,0 +1,28 @@
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\bin\Debug\MatrixLibrary.exe.config
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\bin\Debug\MatrixLibrary.exe
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\bin\Debug\MatrixLibrary.pdb
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.csprojAssemblyReference.cache
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\App.g.cs
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary_MarkupCompile.cache
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary_MarkupCompile.lref
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.g.resources
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.Properties.Resources.resources
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.csproj.GenerateResource.cache
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.exe
+D:\Program Files (x86)\Programms\Архитектура\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.pdb
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\bin\Debug\MatrixLibrary.exe.config
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\bin\Debug\MatrixLibrary.exe
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\bin\Debug\MatrixLibrary.pdb
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\MainWindow.g.cs
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\App.g.cs
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary_MarkupCompile.cache
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary_MarkupCompile.lref
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\MainWindow.baml
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.g.resources
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.Properties.Resources.resources
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.exe
+C:\Users\Егор\Desktop\ДЗ\MatrixSoun\MatrixSolution\MatrixLibrary\obj\Debug\MatrixLibrary.pdb
